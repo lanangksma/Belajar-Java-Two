@@ -3,6 +3,7 @@
 
 # File modul IntelliJ IDEA
 *.iml
+*.uml
 
 # File konfigurasi proyek IntelliJ IDEA
 *.ipr
